@@ -1,0 +1,3 @@
+error.html会覆盖默认的 whitelabel Error Page 错误提示
+静态错误页面优先级别比error.html高
+动态模板错误页面优先级比静态错误页面高
