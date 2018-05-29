@@ -7,6 +7,13 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpStatus;
 
+
+/**
+ * Description: 自定义异常状态转发
+ *
+ * @author yangzhaoyunfei yangzhaoyunfei@qq.com
+ * @date 2018/05/29
+ */
 @Configuration
 public class ContainerConfig {
     @Bean
