@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="demo (1)" />
+          <element id="module-output" name="mybatis-plugin" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:1.5.9.RELEASE" />
@@ -75,7 +75,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/chapter11/target/demo-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="demo (1)/web/Web" />
+      <element id="javaee-facet-resources" facet="mybatis-plugin/web/Web" />
     </root>
   </artifact>
 </component>

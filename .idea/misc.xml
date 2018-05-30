@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-<<<<<<< HEAD
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/chapter11" />
     <file type="web" url="file://$PROJECT_DIR$/chapter4" />
@@ -24,12 +23,6 @@
         <option value="$PROJECT_DIR$/chapter55/pom.xml" />
         <option value="$PROJECT_DIR$/chapter7-1/pom.xml" />
         <option value="$PROJECT_DIR$/chapter9-2/pom.xml" />
-=======
-  <component name="MavenProjectsManager">
-    <option name="originalFiles">
-      <list>
-        <option value="$PROJECT_DIR$/chapter13/pom.xml" />
->>>>>>> 3c39fe608ab105e286785e9260ff33f90825ed7f
       </list>
     </option>
   </component>
