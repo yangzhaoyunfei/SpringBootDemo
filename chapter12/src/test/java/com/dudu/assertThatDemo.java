@@ -69,7 +69,7 @@ public class assertThatDemo {
         Float testedNumber = 1.0f;
 
 
-        /**closeTo匹配符断言被测的浮点型数testedDouble在20.0¡À0.5范围之内*/
+        /**closeTo匹配符断言被测的浮点型数testedDouble在20.0 ~ 0.5范围之内*/
         assertThat(testedDouble, closeTo(20.0, 0.5));
 
         /**greaterThan匹配符断言被测的数值testedNumber大于16.0*/
